@@ -1,0 +1,232 @@
+body {
+	
+	width: 100%;
+    margin: 0px;
+    text-align: center;
+    color: black;
+    
+}
+
+section {
+	min-width: 960px;
+	opacity: 0.9;
+}
+
+header {
+	
+	font-size: 20px;
+	border-radius: 15px;
+    word-spacing: 10px;
+	text-align: right;
+	background-color: #574B73;
+	margin: 0px;
+	padding: 0px;
+   
+ }
+
+#nav li {
+	text-align: right;
+	display: inline-block;
+	word-spacing: 10px;
+	margin-right: 20px;
+	font-size: 16px;
+	color: white;
+}	
+
+	
+#logo {
+	width:100px;
+	height:100px;
+	float: left;
+	padding: 0px;
+}
+
+
+
+h1 {
+	color: white;
+	margin-right: 1050px;
+	padding: 0px;
+
+}
+
+h2 {
+	text-align: center;
+	font-size: 30px;
+	opacity: 2.0;
+	color: white;
+}
+
+.main {
+	
+	opacity: 0.9;
+	display: inline-block;
+	background-color: #574B73; 
+	max-height: 800px;
+	margin-right: 100px;
+	margin-left: 100px;
+	border-radius: 15px;
+
+} 
+
+
+p {
+	font-size: 20px;
+	padding: 8px;
+	margin:40px;
+    word-spacing: 18px;
+	text-align: center;
+	min-height: 200px;
+	max-height: 800px;
+	max-width: 800px;
+
+}
+
+ 	
+form {
+
+	float:right;
+}
+
+#insta{
+	
+	width: 30px;
+	height: 30px;
+	margin-left: 1100px;
+		
+}
+
+#fb {
+	width: 30px;
+	height: 30px;
+	margin-left: 1060px;
+		
+}
+
+#social {
+	
+	position: fixed;
+}
+
+#social1 {
+	
+	position: fixed;
+}		
+
+
+
+li {  /*footer*/
+	
+	text-align: center;
+	color: white;
+	font-size: 14px;
+} 	
+
+
+footer {
+	font-size: 30px;
+	word-spacing: 10px;
+	background-color: black;
+	
+}
+
+.hsContainer {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    opacity: 50;
+}
+
+.hsContent {
+    max-width: 450px;
+    margin: -150px auto 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+    color: white; 
+    padding: 0 8%;
+    text-align: center
+}
+
+.hsContainer1 {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    opacity: 50;
+}
+
+
+.hsContent1 {
+    max-width: 450px;
+    margin: -150px auto 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+    color: white; 
+    padding: 0 8%;
+    text-align: center;
+}
+
+.hsContainer2 {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    opacity: 50;
+}
+
+.hsContent2 {
+    max-width: 450px;
+    margin: -150px auto 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+    color: white; 
+    text-align: center
+}
+
+
+.hsContainer3 {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    opacity: 50;
+}
+
+.hsContent3 {
+    max-width: 450px;
+    margin: -150px auto 0 auto;
+    display: table-cell;
+    vertical-align: middle;
+    color: white; 
+    padding: 0 8%;
+    text-align: center;
+}
+
+
+
+.bcg {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+#slide-1 .bcg {background-image:url('../pic3.jpg')}
+
+#slide-2 .bcg {background-image:url('../pic2.jpg')}
+
+#slide-3 .bcg {background-image:url('../pic3.jpg')}
+
+#slide-4 .bcg {background-image:url('../pic2.jpg')}
+
